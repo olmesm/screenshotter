@@ -1,0 +1,25 @@
+{
+  "name": "screenshotter",
+  "version": "1.0.0",
+  "description": "Simple tool that captures a screenshot of a desired URL.",
+  "main": "index.js",
+  "scripts": {
+    "start": "sh ./script.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olmesm/screenshotter.git"
+  },
+  "keywords": [],
+  "dependencies": {
+    "capture-website-cli": "^1.0.0",
+    "jimp": "^0.16.1",
+    "text2png": "^2.3.0"
+  },
+  "author": "Oliver Smit <github.com/olmesm>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olmesm/screenshotter/issues"
+  },
+  "homepage": "https://github.com/olmesm/screenshotter#readme"
+}

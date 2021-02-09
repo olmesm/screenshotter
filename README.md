@@ -4,7 +4,7 @@ Simple tool that captures a screenshot of a desired URL via a commandline. Usefu
 
 Note this was built as a single use and therefore specific use tool. It will be refactored for more general purposes if used again, however the structure and automation exists.
 
-![example screenshot](./example/example-screenshot.png)
+<img style="max-width: 300px" src="https://raw.githubusercontent.com/olmesm/screenshotter/master/example/example-screenshot.png" />
 
 ## Requires
 

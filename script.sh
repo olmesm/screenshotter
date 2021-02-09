@@ -15,6 +15,6 @@ function capture () {
     node ./watermark.js $OUTPUT_FILE overwrite
 }
 
-capture http://localhost:8080 screenshot-home
+capture http://example.com example-screenshot
 
 echo ">> Done!"
